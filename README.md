@@ -112,7 +112,7 @@ Matplotlib LearnFun is an excellent starting point for beginners looking to ente
   
 
 ### Limitations
-Where to start from was a problem, and I decide to start from the basics which is a line chart. Gettin to pie chart, some arrays were looking stubborn but I was able to run the codes to get chart visual correctly.
+Where to start from was a problem, and I decide to start from the basics which is a line chart. Getting to pie chart, some arrays were looking stubborn but I was able to run the codes to get chart visual correctly.
 
 
 ### References
